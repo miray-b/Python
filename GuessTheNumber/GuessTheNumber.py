@@ -1,7 +1,8 @@
 import random
-secret_number = random.randint(1,100)
-#print(secret_number)
+
 while True:
+    secret_number = random.randint(1,100)
+    #print(secret_number)
     guess = 0
     lives = 5
 
