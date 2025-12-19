@@ -16,7 +16,7 @@ while True:
             user_input = input("Tahmininiz nedir?")
             guess = int(user_input)
         except ValueError:
-            print("Sayı girmedeniz. Oyun bitti.")
+            print("Sayı girmediniz. Oyun bitti.")
             break
 
         if guess < secret_number:
