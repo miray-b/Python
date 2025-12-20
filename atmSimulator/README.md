@@ -21,4 +21,6 @@ This is a command-line interface (CLI) application developed to practice fundame
 ```bash
 python atmSimulator.py
 '''
+
+---
 Developed by MBS
