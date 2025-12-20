@@ -28,5 +28,5 @@ Bir öğrenci grubuna ait notları analiz ederek sınıf ortalamasını hesaplam
 
 ```bash
 python veri_analizi.py
-
+```
 Developed by MBS

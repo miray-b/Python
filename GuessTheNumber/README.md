@@ -23,5 +23,5 @@ The computer selects a random number between **1 and 100**. Your goal is to gues
 
 ```bash
 python GuessTheNumber.py
-
+```
 Developed by MBS
