@@ -18,9 +18,10 @@ This is a command-line interface (CLI) application developed to practice fundame
 2. Navigate to the project directory in your terminal.
 3. Run the following command:
 
-```bash
+'''bash
 python atmSimulator.py
-'''
+```
 
 ---
+
 Developed by MBS
